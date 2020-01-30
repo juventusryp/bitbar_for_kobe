@@ -53,7 +53,7 @@ quoations_en = [
         'I,Kobe Bryant...have decided to skip college and take my talents to the NBA',
     ]
 
-kobe_zh = "如果哪天你忘记了努力，我把科比讲给你听"
+kobe_zh = "如果哪天你不想努力了，我把科比讲给你听"
 mamba_mentality_zh = "曼巴精神:热情、执着、严厉、回击、无惧"
 quoations_zh = [
         '曼走',

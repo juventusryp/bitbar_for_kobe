@@ -1,4 +1,4 @@
-# 如果哪天你忘记了努力，我把科比讲给你听
+# 如果哪天你不想努力了，我把科比讲给你听
 
 ## 效果图
 ![效果图](https://github.com/juventusryp/bitbar_for_kobe/blob/master/pic.png)
