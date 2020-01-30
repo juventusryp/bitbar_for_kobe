@@ -13,7 +13,7 @@
 ```
 https://www.lanzous.com/i8xp52d
 ```
-2、在电脑上新建一个文件夹，然后打开bitbar选择它为默认插件目录
+2、在电脑上新建一个文件夹，然后打开bitbar选择它为默认插件目录  
 3、下载此仓库的kobe.1h.py文件放在上面的文件夹中
 4、软件上点击Preferences-Refresh all出现科比语录即成功，结束  
 如果未出现继续做下面步骤  
