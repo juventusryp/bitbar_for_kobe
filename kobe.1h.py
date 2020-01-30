@@ -8,7 +8,7 @@
 # <bitbar.version>v1.0</bitbar.version>
 import random
 import sys
-kobe_en = ""
+kobe_en = "If one day you don't want to work hard, I will told you the story of kobe"
 mamba_mentality_en = "Mamba Mentality:passionate、obsessive、relentless、resilient、fearless"
 quoations_en = [
         'Mamba out',
