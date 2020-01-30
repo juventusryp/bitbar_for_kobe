@@ -2,6 +2,7 @@
 
 ## 效果图
 ![效果图](https://github.com/juventusryp/bitbar_for_kobe/blob/master/pic.png)
+![效果图](https://github.com/juventusryp/bitbar_for_kobe/blob/master/pic_en.png)
 
 ## 描述
 一个[bitbar](https://getbitbar.com/)插件，依靠bitbar可以在MacOS上的Menu Bar显示科比的经典语录以及收集了一些科比的文章视屏。
